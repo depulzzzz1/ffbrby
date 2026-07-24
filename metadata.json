@@ -1,6 +1,0 @@
-{
-  "name": "Awwwards Text Animation",
-  "description": "An award-winning futuristic metallic and particle text animation loop with GLSL shaders and interactive physics.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
